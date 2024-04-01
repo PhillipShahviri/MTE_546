@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # Load the image
-img = cv2.imread('ball_high_n1.png')
+img = cv2.imread('test_setup_daniel.jpg')
 
 # Select ROI
 roi = cv2.selectROI(img)
